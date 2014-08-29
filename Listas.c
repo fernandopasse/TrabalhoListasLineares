@@ -9,7 +9,7 @@ struct lista {
 };
 typedef struct lista Lista;
 
-/* funÃ§Ã£o de criaÃ§Ã£o: retorna uma lista vazia */
+/* função de criação: retorna uma lista vazia */
 
 Lista *lst_cria(void)
 {
