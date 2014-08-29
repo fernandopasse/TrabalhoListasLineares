@@ -16,7 +16,7 @@ Lista *lst_cria(void)
        return NULL;
 }
 
-/* inserÃ§Ã£o no inÃ­cio: retorna a lista atualizada */
+/* inserÃ§Ã£o no início: retorna a lista atualizada */
 Lista *lst_insere (Lista *l, int i)
 {
        Lista *novo = (Lista*) malloc(sizeof(Lista));
