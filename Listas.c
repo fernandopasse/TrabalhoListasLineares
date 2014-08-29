@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <windows.h>
-/* definiÃ§Ã£o da estrutura da lista */
+/* definição da estrutura da lista */
 struct lista {
        int info;
        struct lista *prox;
